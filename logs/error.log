@@ -1,0 +1,7 @@
+2025/03/18 23:20:36 [error] 17516#15384: *1 CreateFile() "C:\Tanmay\2025\nginx-1.26.3/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2025/03/18 23:21:08 [notice] 25800#8016: signal process started
+2025/03/18 23:27:09 [emerg] 30556#25404: unexpected end of file, expecting "}" in C:\Tanmay\2025\nginx-1.26.3/conf/nginx.conf:33
+2025/03/18 23:28:44 [error] 8212#19836: *1 "C:\Tanmay\2025\nginx-1.26.3/test-1/html/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2025/03/18 23:28:44 [error] 8212#19836: *1 CreateFile() "C:\Tanmay\2025\nginx-1.26.3/test-1/html/favicon.ico" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/"
+2025/03/18 23:29:05 [notice] 27492#14456: signal process started
+2025/03/18 23:30:59 [notice] 19560#16208: signal process started
